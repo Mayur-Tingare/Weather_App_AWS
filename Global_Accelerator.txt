@@ -1,0 +1,4 @@
+How it works
+AWS Global Accelerator is a networking service that helps you improve the availability, performance, and security of your public applications. Global Accelerator provides two global static public IPs that act as a fixed entry point to your application endpoints, such as Application Load Balancers, Network Load Balancers, Amazon Elastic Compute Cloud (EC2) instances, and elastic IPs.
+
+AWS Global Accelerator connects end users to load balancers in up to 10 Regions within the AWS global network.
