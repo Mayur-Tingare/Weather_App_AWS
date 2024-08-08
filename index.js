@@ -10,7 +10,7 @@ const userinfocontiner=document.querySelector(".user-info-container");
 // initial var's
 
 let oldtab=usertab;
-const API_key="ccbb8677e7601787efbc566aca737dfc";
+
 
 oldtab.classList.add("current-tab");
 
